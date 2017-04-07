@@ -6,7 +6,10 @@ import java.io.Serializable;
  * @author ZhangYi
  *
  */
+<<<<<<< HEAD
 //学习一个软件好难
+=======
+>>>>>>> ec7f6bffd578048afb50e5f9c73cbef63c40ce35
 public class UserBean implements Serializable{
 	private int id ;
 	private String name;
