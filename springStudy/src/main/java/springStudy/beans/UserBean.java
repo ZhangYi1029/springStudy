@@ -1,7 +1,12 @@
 package springStudy.beans;
 
 import java.io.Serializable;
-
+/**
+ * 
+ * @author ZhangYi
+ *
+ */
+//学习一个软件好难
 public class UserBean implements Serializable{
 	private int id ;
 	private String name;
